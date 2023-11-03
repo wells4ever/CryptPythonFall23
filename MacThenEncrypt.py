@@ -1,5 +1,6 @@
 from binascii import hexlify as hexa
 from os import urandom
+#import the following files, this method requires these files in the same folder as MTE file
 import AESFunctions
 import MACFunctions
 
